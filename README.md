@@ -1,1 +1,5 @@
-# my-ecommerce-app-main-2.0
+<<<<<<< HEAD
+Your local changes
+=======
+Changes from the remote repository
+>>>>>>> origin/main
